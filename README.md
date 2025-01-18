@@ -4,13 +4,11 @@
 
 I'm a Computer Science student passionate about coding and solving complex problems through software development. I'm skilled in languages like Python, Java, C#, and JavaScript, and currently seeking opportunities to apply my abilities in web and mobile app development.
 
+![Coding](Best-Programming-Software-for-Writing-Code.jpg)
+
 ### 🌱 What I'm currently learning:
 - Advanced techniques in iOS and Android Mobile Applications
 - Deepening my knowledge in Data Structures and Algorithms
-
-### 🔭 I’m currently working on:
-- A Disease Contact-Tracing Application using C++ to track disease movement through efficient data structures.
-- A Cinema Management System in Java, enhancing a POS system for effective cinema management.
 
 ### 👯 I’m looking to collaborate on:
 - Open source projects involving Python and JavaScript.
