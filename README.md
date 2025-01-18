@@ -2,24 +2,32 @@
 
 ![Jordan Artzy-McCendie](L41H4-91VKKPL_McCendieA_34.jpg)
 
-I'm a Computer Science student passionate about coding and solving complex problems through software development. I'm skilled in languages like Python, Java, C#, and JavaScript, and currently seeking opportunities to apply my abilities in web and mobile app development.
+🔭 I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in Python, Java, C#, and JavaScript.
 
 ![Coding](Best-Programming-Software-for-Writing-Code.jpg)
+
+## Table of Contents
+- [What I'm Learning](#what-im-learning)
+- [Current Projects](#current-projects)
+- [Collaborate with Me](#collaborate-with-me)
+- [Get in Touch](#get-in-touch)
 
 ### 🌱 What I'm currently learning:
 - Advanced techniques in iOS and Android Mobile Applications
 - Deepening my knowledge in Data Structures and Algorithms
 
-### 👯 I’m looking to collaborate on:
-- Open source projects involving Python and JavaScript.
-- Mobile and web application development teams.
+### 🔭 I’m currently working on:
+<details>
+  <summary>Disease Contact-Tracing Application (C++)</summary>
+  Using C++ to track disease movement through efficient data structures. Aimed at improving epidemic response capabilities.
+</details>
 
-### 💬 Ask me about:
-- Anything related to Python, Java, or Mobile Development.
-- My experience leading development projects in college.
+<details>
+  <summary>Cinema Management System (Java)</summary>
+  Enhancing a POS system for effective cinema management, utilizing Java Swing and design patterns for scalable architecture.
+</details>
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Your LinkedIn profile](your-linkedin-url)
-- **Portfolio**: [My Portfolio](https://html-profile-website.vercel.app/)
+- **Portfolio**: ![My Portfolio](https://html-profile-website.vercel.app/)
 
-### 😄 Pronouns: He/Him
