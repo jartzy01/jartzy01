@@ -1,19 +1,17 @@
 # Hi, I'm Jordan Artzy-McCendie 👋
 
 <!-- Using HTML to control the image size -->
-
-
-
 <table>
   <tr>
     <!-- Image cell -->
     <td>
       <img src="L41H4-91VKKPL_McCendieA_34.jpg" alt="Jordan Artzy-McCendie" width="500" height="500"/>
     </td>
-    
+    <td>
+    </td>
     <!-- Text cell -->
     <td>
-      Hi, I'm Jordan Artzy-McCendie! I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in languages like Python, Java, C#, and JavaScript.
+      <p>Hi, I'm Jordan Artzy-McCendie! I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in languages like Python, Java, C#, and JavaScript.</P>
     </td>
   </tr>
 </table>
