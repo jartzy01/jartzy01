@@ -2,12 +2,21 @@
 
 <!-- Using HTML to control the image size -->
 
-<div style="float: left; margin-right: 20px;">
-  <img src="L41H4-91VKKPL_McCendieA_34.jpg" alt="Jordan Artzy-McCendie" width="500" height="500"/>
-</div>
-<div>
-  <p>🔭 I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in Python, Java, C#, and JavaScript.</p>
-</div>
+
+
+<table>
+  <tr>
+    <!-- Image cell -->
+    <td>
+      <img src="L41H4-91VKKPL_McCendieA_34.jpg" alt="Jordan Artzy-McCendie" width="500" height="500"/>
+    </td>
+    
+    <!-- Text cell -->
+    <td>
+      Hi, I'm Jordan Artzy-McCendie! I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in languages like Python, Java, C#, and JavaScript.
+    </td>
+  </tr>
+</table>
 ![Coding](Best-Programming-Software-for-Writing-Code.jpg)
 
 ## Table of Contents
