@@ -3,7 +3,6 @@
 <!-- Using HTML to control the image size -->
 <table>
   <tr>
-    <!-- Image cell -->
     <td>
       <img src="L41H4-91VKKPL_McCendieA_34.jpg" alt="Jordan Artzy-McCendie" width="600" height="500"/>
     </td>
@@ -12,7 +11,6 @@
     </td>
   </tr>
 </table>
-![Coding](Best-Programming-Software-for-Writing-Code.jpg)
 
 ## Table of Contents
 - [What I'm Learning](#what-im-learning)
