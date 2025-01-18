@@ -6,7 +6,7 @@
   <img src="L41H4-91VKKPL_McCendieA_34.jpg" alt="Jordan Artzy-McCendie" width="500" height="500"/>
 </div>
 <div>
-  🔭 I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in Python, Java, C#, and JavaScript.
+  <p>🔭 I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in Python, Java, C#, and JavaScript.</p>
 </div>
 ![Coding](Best-Programming-Software-for-Writing-Code.jpg)
 
