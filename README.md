@@ -34,6 +34,6 @@
 </details>
 
 ### 📫 How to reach me:
-- **LinkedIn**: [Your LinkedIn profile]([https://www.linkedin.com/in/jordan-artzy-36009b110?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqNWm8h0eQZSZyIbcOMhhqQ%3D%3D)
+- **LinkedIn**: [Your LinkedIn profile]([https://www.linkedin.com/in/jordan-artzy-36009b110?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqNWm8h0eQZSZyIbcOMhhqQ%3D%3D])
 - **Portfolio**: ![My Portfolio](https://html-profile-website.vercel.app/)
 
