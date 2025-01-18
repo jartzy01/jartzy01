@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jordan Artzy-McCendie 👋
 
-<!--
-**jartzy01/jartzy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jordan Artzy-McCendie](L41H4-91VKKPL_McCendieA_34.jpg)
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about coding and solving complex problems through software development. I'm skilled in languages like Python, Java, C#, and JavaScript, and currently seeking opportunities to apply my abilities in web and mobile app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm currently learning:
+- Advanced techniques in iOS and Android Mobile Applications
+- Deepening my knowledge in Data Structures and Algorithms
+
+### 🔭 I’m currently working on:
+- A Disease Contact-Tracing Application using C++ to track disease movement through efficient data structures.
+- A Cinema Management System in Java, enhancing a POS system for effective cinema management.
+
+### 👯 I’m looking to collaborate on:
+- Open source projects involving Python and JavaScript.
+- Mobile and web application development teams.
+
+### 💬 Ask me about:
+- Anything related to Python, Java, or Mobile Development.
+- My experience leading development projects in college.
+
+### 📫 How to reach me:
+- **LinkedIn**: [Your LinkedIn profile](your-linkedin-url)
+- **Portfolio**: [My Portfolio](https://html-profile-website.vercel.app/)
+
+### 😄 Pronouns: He/Him
