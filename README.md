@@ -1,10 +1,13 @@
 # Hi, I'm Jordan Artzy-McCendie 👋
 
 <!-- Using HTML to control the image size -->
-<img src="L41H4-91VKKPL_McCendieA_34.jpg" alt="Jordan Artzy-McCendie" width="500" height="500"/>
 
-🔭 I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in Python, Java, C#, and JavaScript.
-
+<div style="float: left; margin-right: 20px;">
+  <img src="L41H4-91VKKPL_McCendieA_34.jpg" alt="Jordan Artzy-McCendie" width="500" height="500"/>
+</div>
+<div>
+  🔭 I'm a Computer Science student passionate about coding and solving complex problems through software development. Skilled in Python, Java, C#, and JavaScript.
+</div>
 ![Coding](Best-Programming-Software-for-Writing-Code.jpg)
 
 ## Table of Contents
