@@ -35,5 +35,5 @@
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Your LinkedIn profile]([https://www.linkedin.com/in/jordan-artzy-36009b110/])
-- **Portfolio**: ![My Portfolio](https://html-profile-website.vercel.app/)
+- **Portfolio**: ![My Portfolio]([https://jordanartzymccendie.site/])
 
